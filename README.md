@@ -1,6 +1,6 @@
 # PortfolioRH
 
-An eye-catching portfolio website which is visually engaging, with a clean and modern design that highlights my skills and experience.
+This portfolio website features a visually engaging, clean, and modern design that puts your skills and experience front and center. With a sleek layout, interactive galleries, and a user-friendly interface, it showcases your best work while ensuring easy navigation and fast performance. Built for creative professionals who want to make a bold impression, this portfolio highlights your unique style with smooth animations, responsive design, and clear calls to action. Perfect for standing out and leaving a lasting impact!
 
 ## Preview
 

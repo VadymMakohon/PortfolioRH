@@ -18,9 +18,11 @@ A live demo is already available via this [link](https://vadymmakohon.github.io/
 
  HTML, CSS, Vanilla JavaSCript
 
-## License
+## 📜 License
+This repository is for educational purposes only and has an MIT License
 
-MIT
+### Show your support
+Give a ⭐ if you like this website!
 
 # Contributors
 
